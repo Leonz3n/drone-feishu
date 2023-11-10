@@ -9,3 +9,5 @@ steps:
       webhook: xxxxxxx
       secret: xxxxx
 ```
+
+<img src="assets/sample.png" alt="sample">
